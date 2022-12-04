@@ -1,4 +1,4 @@
-import os, sys, string
+import string
 
 def encode(text):
     arr = []
@@ -41,5 +41,7 @@ if __name__ == "__main__":
     else: print(f"Invalid arguments\nUsage: {sys.argv[0]} <encode/decode> <string>")
 
 
+      
 
-#
+
+#btw i use arch
