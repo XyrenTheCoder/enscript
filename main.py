@@ -1,4 +1,4 @@
-import string
+import sys, string
 
 def encode(text):
     arr = []
